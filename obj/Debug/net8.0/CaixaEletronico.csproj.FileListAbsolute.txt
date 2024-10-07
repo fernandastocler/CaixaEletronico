@@ -1,0 +1,5 @@
+C:\Users\Alunos\Documents\fernanda\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\fernanda\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\fernanda\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.AssemblyInfo.cs
+C:\Users\Alunos\Documents\fernanda\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\fernanda\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.sourcelink.json
